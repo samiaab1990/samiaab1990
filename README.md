@@ -4,7 +4,7 @@
 
 - 🙂 <b>Pronouns</b>: she/her
 - 📊 <b>Experience</b>: I'm fluent in <b> R, SQL and Python </b> as well as <b>HTML and CSS</b> and specialize in automation, data analysis and visualization
-- 📚 <b>Learning</b>: I'm learning <b>C, JavaScript and software development</b>
+- 📚 <b>Learning</b>: I'm learning <b>C and JavaScript</b>
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
