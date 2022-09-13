@@ -1,8 +1,10 @@
 <img src='https://github.com/samiaab1990/samiaab1990/blob/76e59f64130d1cd19c60a51e0e4f06394c5fc491/samia_b_header.png'>
 
-### Hi there 👋 I'm Samia 
+### Hi there 👋 I'm Samia
+
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: she/her
 
 Here are some ideas to get you started:
 
@@ -12,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
