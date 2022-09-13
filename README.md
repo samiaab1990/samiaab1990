@@ -2,9 +2,12 @@
 
 ### Hi there 👋 I'm Samia
 
+- 😄 Pronouns: she/her
+- I've been working in the data analytics realm for the past few years. I'm fluent in <b> R, SQL and Python </b> and specialize in automation and data visualization
+- I am learning C, JavaScript and web development
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 😄 Pronouns: she/her
+
 
 Here are some ideas to get you started:
 
