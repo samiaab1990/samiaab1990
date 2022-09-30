@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Samia
 
 - 🙂 <b>Pronouns</b>: she/her
-- 📊 <b>Experience</b>: I have years of experience in <b> R, SQL and Python </b> as well as <b>HTML and CSS</b> and specialize in automation, package development, data analysis and visualization. Some accomplishments:
+- 📊 <b>Experience</b>: I have years of experience in <b> R, SQL and Python </b> as well as <b>HTML and CSS</b> and specialize in automation, package development, data analysis and visualization. Some highlights:
   - ✨ I've created several data visualizations, some of which you can find in my [Data Visualizations](https://github.com/samiaab1990/Data-Visualizations) repository
   - ✨ I've contributed to and created packages in R and Python
   - ✨ I maintain a theme for highlight.js 
