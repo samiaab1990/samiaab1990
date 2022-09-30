@@ -9,7 +9,7 @@
   - ✨ I maintain a theme for highlight.js 
   - ✨ I have expertise in creating dashboards all via code, leveraging Plotly, R flexdashboard and Shiny packages. My contributions were published in the Journal of the American Medical Informatics Association
   - ✨ I have leveraged my coding skills to automate 'the tedious stuff', saving over 2,000+ hours of manual work annually 
-- 📚 <b>Learning</b>: I'm learning more programming languages and theory for software development! Currently <b> C and JavaScript </b>. 
+- 📚 <b>Learning</b>: I'm learning more programming languages and theory to become a better software developer. Currently <b> C and JavaScript </b>. 
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
