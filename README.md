@@ -5,8 +5,8 @@
   - ✨ Data visualizations
   - ✨ Software Development 
 - 📊 <b>Experience</b>:
-  - ✨ Data visualizations and dashboards with the ggplot2, flexdashboard, shiny, plotly libraries
-  - ✨ Package development in R and Python 
+  - ✨ Data visualizations 
+  - ✨ Package development
   - ✨ Automation  
   - ✨ Web development
 <!--
