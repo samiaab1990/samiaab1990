@@ -5,7 +5,7 @@
   - ✨ Data visualizations
   - ✨ Software Development 
 - 📊 <b>Experience</b>:
-  - ✨ Data visualizations 
+  - ✨ Data visualizations and dashboards
   - ✨ Package development
   - ✨ Automation  
   - ✨ Web development
