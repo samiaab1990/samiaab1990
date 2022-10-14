@@ -1,5 +1,3 @@
-<img src='https://github.com/samiaab1990/samiaab1990/blob/b1b6ae4abfc9049c05114c9e65cc1fbbf965cfd9/samia_b_header_small.png'>
-
 ### Hi there 👋 I'm Samia
 
 - 🙂 <b>Pronouns</b>: she/her
