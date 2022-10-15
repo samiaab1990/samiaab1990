@@ -2,14 +2,14 @@
 
 <p align='center'> 
 - 🙂 <b>Pronouns</b>: she/her 
-  
-- 💡 <b>Interests</b>: ✨ Data visualizations ✨ Software Development 
-  
-- 📊 <b>Experience</b>:
-  - ✨ Data visualizations and interactive dashboards
-  - ✨ Package development
-  - ✨ Automation  
-  - ✨ Web development  
+</p>
+
+<p align='center'>
+- 💡 <b>Interests</b>: ✨ Data visualizations ✨ Software Development
+</p>
+ 
+<p align='center>
+📊 <b>Experience</b>: ✨ Data visualizations and interactive dashboards ✨ Package development ✨ Automation  ✨ Web development  
 </p>
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
