@@ -1,7 +1,6 @@
 <p align ='center'><img src='https://github.com/samiaab1990/samiaab1990/blob/2e0538c5c71209cc76a2685d7f31bbaf52a4e08c/header.png' width='60%' height='60%'></p>
 
-<p align='center'>
-  
+<p align='center'> 
 - 🙂 <b>Pronouns</b>: she/her
 - 💡 <b>Interests</b>: 
   - ✨ Data visualizations
@@ -10,8 +9,7 @@
   - ✨ Data visualizations and interactive dashboards
   - ✨ Package development
   - ✨ Automation  
-  - ✨ Web development
-  
+  - ✨ Web development  
 </p>
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
