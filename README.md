@@ -3,9 +3,7 @@
 <p align='center'> 
 - 🙂 <b>Pronouns</b>: she/her 
   
-- 💡 <b>Interests</b>: 
-  - ✨ Data visualizations
-  - ✨ Software Development 
+- 💡 <b>Interests</b>: ✨ Data visualizations ✨ Software Development 
   
 - 📊 <b>Experience</b>:
   - ✨ Data visualizations and interactive dashboards
