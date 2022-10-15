@@ -1,14 +1,14 @@
 <p align ='center'><img src='https://github.com/samiaab1990/samiaab1990/blob/2e0538c5c71209cc76a2685d7f31bbaf52a4e08c/header.png' width='60%' height='60%'></p>
 
-<p align='center'> 
+<p align='left'> 
  🙂 <b>Pronouns</b>: she/her 
 </p>
 
-<p align='center'>
+<p align='left'>
  💡 <b>Interests</b>: ✨ Data visualizations ✨ Software Development
 </p>
  
-<p align='center'>
+<p align='left'>
 📊 <b>Experience</b>: ✨ Data visualizations and interactive dashboards ✨ Package development ✨ Automation  ✨ Web development  
 </p>
 <!--
