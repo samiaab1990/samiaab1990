@@ -1,4 +1,4 @@
-<img src='https://github.com/samiaab1990/samiaab1990/blob/8126f38ee44c17bdce13be67630cd7380803f217/header_with_github_twitter.png' width='80%' height='80%'>
+<img src='https://github.com/samiaab1990/samiaab1990/blob/8126f38ee44c17bdce13be67630cd7380803f217/header_with_github_twitter.png'>
 
 ### Hi there 👋 I'm Samia
 
