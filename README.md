@@ -4,7 +4,7 @@
 - 🙂 <b>Pronouns</b>: she/her
 - 💡 <b>Interests</b>: 
   - ✨ Data visualizations
-  - ✨ Software Development 
+  - ✨ Full stack software engineering
 - 📊 <b>Experience</b>:
   - ✨ Data visualizations and dashboards
   - ✨ Package development
