@@ -6,10 +6,10 @@
   - ✨ Data visualizations
   - ✨ Full stack software engineering
 - 📊 <b>Experience</b>:
-  - ✨ Data visualizations and dashboards
+  - ✨ Data visualizations and dashboards via R and Python 
   - ✨ Package development
   - ✨ Automation  
-  - ✨ Web development
+  - ✨ HTML, CSS and JavaScript 
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
