@@ -9,7 +9,7 @@
   - ✨ Data visualizations and dashboards via R and Python 
   - ✨ Package development
   - ✨ Automation  
-  - ✨ HTML, CSS and JavaScript 
+  - ✨ Front-end development 
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
