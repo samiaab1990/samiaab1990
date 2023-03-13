@@ -1,5 +1,6 @@
 
 <img src = "linkedin_banner_light_colors.jpg">
+
 ### Hi there 👋 I'm Samia
 
 - 🙂 <b>Pronouns</b>: she/her
