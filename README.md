@@ -3,13 +3,26 @@
 
 - 🙂 <b>Pronouns</b>: she/her
 - 💡 <b>Interests</b>: 
-  - ✨ Data visualizations
-  - ✨ Full stack software engineering
-- 📊 <b>Experience</b>:
-  - ✨ Data visualizations and dashboards via R and Python 
-  - ✨ Package development
-  - ✨ Automation  
-  - ✨ Web applications 
+  - ✨ Software Engineering
+  - ✨ Data Visualization Engineering
+  - ✨ Data science 
+- 📊 <b>Experience</b>
+  - ✨ Developing visualizations and dashboards via R and Python 
+  - ✨ Developing packages and libraries for the R and Python programming language 
+  - ✨ Automating data workflows and pipelines 
+  - ✨ Developing full-stack web applications with Flask and Express.js
+- ⚙️ <b>Stack</b>
+  - ✨ Languages: R, Python, HTML, CSS, JavaScript/JQuery, C
+  - ✨ Frontend: SASS
+  - ✨ Backend: Flask, Express.JS
+  - ✨ Databases: MS SQL Server, MySQL, SQLite
+  - ✨ I'm also familiar with Docker and AWS 
+- 🌱 <b> What I'm Currently Learning </b>
+  - ✨ Java
+  - ✨ D3.js
+  - ✨ React.js
+- 🔭 <b> What I'm Currently Working on </b>
+  - ✨ My updated portfolio page (coming soon!) 
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
