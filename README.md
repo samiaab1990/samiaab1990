@@ -12,8 +12,8 @@
   - ✨ Automating data workflows and pipelines 
   - ✨ Developing full-stack web applications with Flask and Express.js
 - ⚙️ <b>Stack</b>
-  - ✨ Languages: R, Python, HTML, CSS, JavaScript/JQuery, C
-  - ✨ Frontend: SASS
+  - ✨ Languages: R, Python, HTML, CSS, JavaScript, JQuery, C
+  - ✨ Frontend: SASS 
   - ✨ Backend: Flask, Express.JS
   - ✨ Databases: MS SQL Server, MySQL, SQLite
   - ✨ I'm also familiar with Docker and AWS 
