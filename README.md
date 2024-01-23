@@ -3,9 +3,10 @@
 
 - 🙂 <b>Pronouns</b>: she/her
 - 💡 <b>Interests</b>: 
-  - ✨ Software Engineering
+  - ✨ Full Stack Software Engineering
   - ✨ Data Visualization Engineering
-  - ✨ Data science 
+  - ✨ Data Engineering 
+  - ✨ Data Science 
 - 📊 <b>Experience</b>
   - ✨ Developing visualizations and dashboards via R and Python 
   - ✨ Developing packages and libraries for the R and Python programming language 
@@ -21,6 +22,7 @@
   - ✨ Java
   - ✨ D3.js
   - ✨ React.js
+  - ✨ Developing and automating data pipelines with Python and PostgreSQL 
 - 🔭 <b> What I'm Currently Working on </b>
   - ✨ My updated portfolio page (coming soon!) 
 <!--
