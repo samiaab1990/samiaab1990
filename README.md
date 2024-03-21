@@ -23,8 +23,7 @@
   - ✨ D3.js
   - ✨ React.js
   - ✨ Developing and automating data pipelines with Python and PostgreSQL 
-- 🔭 <b> What I'm Currently Working on </b>
-  - ✨ My updated portfolio page (coming soon!) 
+
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
