@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-
-### About Me
 I am a data engineer with a healthcare background (PharmD)
-### Specializations
+### 🌟 Specializations
 Data pipeline automation, data visualization and web development
-### Tech Stack 
+### 💻 Tech Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width=3% height=3%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=3% height=3% />
 
