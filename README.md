@@ -22,5 +22,5 @@ I am a data engineer with a healthcare background (PharmD)
 ### Specializations
 Data pipeline automation, data visualization and web development
 ### Tech Stack 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width=1% height=1%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width=3% height=3%/>
 
