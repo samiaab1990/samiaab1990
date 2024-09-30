@@ -22,7 +22,7 @@ I am a data engineer with a healthcare background (PharmD)
 Data pipeline automation, data visualization and web development
 ### 💻 Tech Stack 
 
-#### ⌨️
+#### ⌨️ Coding
 <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width=3% height=3%/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=3% height=3%/>
@@ -33,11 +33,11 @@ Data pipeline automation, data visualization and web development
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=3% height=3%/>
 </p>
 
-#### ☁️
+#### ☁️ Cloud
 <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = 3% height=3%/>
 
-#### ⚙️
+#### ⚙️ Development 
 <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=3% height=3%/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=3% height=3%/>   
