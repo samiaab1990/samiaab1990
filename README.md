@@ -21,5 +21,5 @@ I am a data engineer with a healthcare background (PharmD)
 Data pipeline automation, data visualization and web development
 ### 💻 Tech Stack 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width=3% height=3%/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=4% height=4% />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=4% height=4% /> </span>
 
