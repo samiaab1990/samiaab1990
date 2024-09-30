@@ -20,13 +20,13 @@ I am a data engineer with a healthcare background (PharmD)
 ### 🌟 Specializations
 Data pipeline automation, data visualization and web development
 ### 💻 Tech Stack 
-#### <img src=https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/code.svg width=2% height=2%/> Languages 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width=3% height=3%/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=3% height=3%/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width=3% height=3% />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=3% height=3%/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=3% height=3%/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=3% height=3%/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=3% height=3%/>          
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=3% height=3%/>   
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = 3% height=3%/>       
 </span>
 
