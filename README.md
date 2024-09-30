@@ -20,7 +20,7 @@ I am a data engineer with a healthcare background (PharmD)
 ### 🌟 Specializations
 Data pipeline automation, data visualization and web development
 ### 💻 Tech Stack 
-#### <img src=https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/code.svg /> Languages
+#### <img src=https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/code.svg width=5% height=5%/> Languages
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width=3% height=3%/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=3% height=3%/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width=3% height=3% />
