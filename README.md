@@ -17,15 +17,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🙂 About Me
+
 I am a senior data scientist/data engineer with a pharmacy background (PharmD) and 5+ years of experience in the healthcare data science field, having worked as a data professional in academic, public health, hospital and industry settings. 
 ### 🌟 Specializations
+
 ✨ Data Visualization with R and Python (flexdashboard, shiny, ggplot, plotly and some matplotlib) 
+
 ✨ Automation of data reporting workflows and pipelines (R and Python) 
+
 ✨ Developing interactive data science documents with RMarkdown and Quarto 
+
 ✨ Web development with HTML/CSS, JavaScript (vanilla, jquery) with some react.js, node.js and flask experience 
+
 ✨ Package development in R and Python 
+
 ✨ SQL 
+
 ### 🌱 Currently learning
+
 🍃 Cloud (AWS)
+
 🍃 Data Visualization with D3.js 
+
 🍃 ...and more 
