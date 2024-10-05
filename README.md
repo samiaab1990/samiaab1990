@@ -34,10 +34,4 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 ✨ SQL development  
 
-### 🌱 Currently learning
-
-🍃 Cloud (AWS)
-
-🍃 Data Visualization with D3.js 
-
-🍃 ...and more 
+✨ Being unable to figure out what to learn next 
