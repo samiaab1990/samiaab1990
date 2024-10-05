@@ -32,6 +32,6 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 ✨ Package development in R and Python 
 
-✨ SQL development  
+✨ SQL Development
 
 ✨ Being unable to figure out what to learn next 
