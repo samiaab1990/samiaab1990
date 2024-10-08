@@ -36,6 +36,6 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 ✨ Figuring out what to learn next 
 
-<svg width="400" height="120">
-  <rect x="10" y="10" width="200" height="100" stroke="red" stroke-width="6" fill="blue" />
-</svg>
+<picture>
+  <img src='./svg/header.svg'>
+</picture>
