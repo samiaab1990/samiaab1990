@@ -37,5 +37,5 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 ✨ Figuring out what to learn next 
 
 <picture>
-  <img src='./svg/header.svg'>
+  <img src='svg/header.svg'>
 </picture>
