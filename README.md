@@ -34,4 +34,4 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 ✨ SQL Development
 
-✨ Being unable to figure out what to learn next 
+✨ Figuring out what to learn next 
