@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 I am a senior data scientist/data engineer with a pharmacy background (PharmD) and 5+ years of experience in the healthcare data science field. My interests include in software development, data engineering and data visualization for applications in healthcare and public health. 
 
+[![My Skills](https://skillicons.dev/icons?i=r,py,js&perline=3)](https://skillicons.dev)
 ### 🌟 Specializations
 
 ✨ Data Visualization with R and Python (flexdashboard, shiny, ggplot, plotly and some matplotlib) 
