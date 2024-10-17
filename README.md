@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-# 🙂 About Me
+# 🙂 About Me 
 
 I am a senior data scientist/data engineer with a pharmacy background (PharmD) and 5+ years of experience in the healthcare data science field. My interests include in software development, data engineering and data visualization for applications in healthcare and public health. 
 
