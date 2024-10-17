@@ -71,8 +71,7 @@
 
       <div class="container">
        <div class="blur">
-        <h1>Hi, I'm Samia👋</h1><div class="subtitle"><b>Welcome to my Github
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+        <h1>Hi, I'm Samia👋</h1><div class="subtitle"><b>Welcome to my Github <image href="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="50" height="50"/>
           </b></div><div class="subtitle">💊 Pharmacy ⚕️Public Health📊 Data Science💻 Software Dev</div>
       </div>
     </div>
