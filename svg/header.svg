@@ -54,14 +54,14 @@
     }
 
 .playwrite-gb-s-h1 {
-  font-family: "Playwrite GB S", cursive;
+  font-family: 'Playwrite GB S', cursive;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
  h1{
     font-size:50px;
-    font-family: 'Playwrite GB S';
+    font-family: .playwrite-gb-s-h1;
      font-optical-sizing: auto;
      font-weight: 400;
      font-style: normal;
