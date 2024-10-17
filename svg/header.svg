@@ -37,7 +37,7 @@
       100%{background-position:0% 50%;}
     }
     
-    .playwrite-gb-s, .blur {
+  .blur {
       /* From https://css.glass */
       background: rgba(255, 255, 255, 0.37);
       border-radius: 16px;
@@ -52,7 +52,7 @@
       justify-content: center;
       align-items: center;
       color: white;
-      font-family: "Playwrite GB S", cursive;
+      font-family: "Playwrite GB S";
     }
 
     h1{
