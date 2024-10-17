@@ -63,8 +63,9 @@
 
       <div class="container">
        <div class="blur">
-         <div><h1>Hi, I'm Samia.</h1></div>
-         <div><h2> I am </h2></div>
+         <h1>Hi, I'm Samia.</h1>
+         <br>
+         <h2> I am </h2>
       </div>
     </div>
   </foreignObject>
