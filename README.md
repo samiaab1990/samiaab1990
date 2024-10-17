@@ -24,5 +24,14 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 # 🌟 Projects
 
+## Data Visualizations
+
+## Packages 
+
+## Programs
+
+## Apps 
+
+
 # Stack 
 
