@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-     @import url('https://fonts.googleapis.com/css2?family=Playwrite+Chile');
+     @import url('https://fonts.googleapis.com/css2?family=Playwrite');
 
     
     .container {
@@ -56,7 +56,7 @@
 
  h1{
     font-size:50px;
-    font-family: 'Playwrite Chile';
+    font-family: 'Playwrite';
     color:white;
     }
       
