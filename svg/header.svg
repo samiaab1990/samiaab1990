@@ -6,6 +6,7 @@
     .container {
       border-radius: 16px;
       background: linear-gradient(43deg, #4158D0, #C850C0, #FFCC70);
+      background-size: 400% 400%;
       width: 600px;
       height: 300px;
       animation: gradient 5s ease infinite;
