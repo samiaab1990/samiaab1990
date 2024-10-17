@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-
+    @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/brands.min.css');
     .container {
       border-radius:16px;
       background: linear-gradient(43deg, #4158D0, #C850C0, #FFCC70);
@@ -71,7 +71,7 @@
 
       <div class="container">
        <div class="blur">
-        <h1>Hi, I'm Samia👋</h1><div class="subtitle"><b>Welcome to my Github.</b>Interests:</div><div class="subtitle">💊 Pharmacy ⚕️Public Health📊 Data Science💻 Software Dev</div>
+        <h1>Hi, I'm Samia👋</h1><div class="subtitle"><b>Welcome to my Github<i class="fa-brands fa-github"></i></b></div><div class="subtitle">💊 Pharmacy ⚕️Public Health📊 Data Science💻 Software Dev</div>
       </div>
     </div>
   </div>
