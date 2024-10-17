@@ -1,6 +1,9 @@
 <svg fill="none" viewBox="0 0 400 400" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
             <style>
+       .background: {                 
        background-color: #4158D0;
        background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
             </style>
+            <div class='background></div>
 </svg>
