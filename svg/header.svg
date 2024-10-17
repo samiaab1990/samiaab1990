@@ -54,13 +54,13 @@
     }
 
  h1{
-    font-size:50px;
+    font-size:40px;
     font-family: 'Roboto';
     font-weight: 700;
     color:white;
     }
 
-    .title
+    .subtitle
     {
         font-family:'Roboto';
         font-size:20px;
@@ -71,7 +71,7 @@
 
       <div class="container">
        <div class="blur">
-         <div class="title"><h1>Hi, I'm Samia 👋</h1></div><div class="title"><b>I specialize in</b></div><div class="title"> 💊 Pharmacy ⚕️Public Health 📊 Data Science 💻 Software Dev</div>
+        <h1>Hi, I'm Samia 👋</h1><div class="subtitle"><b>I specialize in</b></div><div class="subtitle"> 💊 Pharmacy ⚕️Public Health 📊 Data Science 💻 Software Dev</div>
       </div>
     </div>
   </div>
