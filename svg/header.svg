@@ -37,7 +37,7 @@
       100%{background-position:0% 50%;}
     }
     
-  .blur {
+  .playwrite-gb-s-blur {
       /* From https://css.glass */
       background: rgba(255, 255, 255, 0.37);
       border-radius: 16px;
@@ -62,7 +62,7 @@
       </style>
 
       <div class="container">
-       <div class="blur"><h1>Hi, I'm Samia.</h1></div>
+       <div class="playwrite-gb-s-blur"><h1>Hi, I'm Samia.</h1></div>
       </div>
     </div>
   </foreignObject>
