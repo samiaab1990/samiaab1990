@@ -37,7 +37,7 @@
       100%{background-position:0% 50%;}
     }
     
-  .playwrite-gb-s-blur {
+  .blur {
       /* From https://css.glass */
       background: rgba(255, 255, 255, 0.37);
       border-radius: 16px;
@@ -51,21 +51,21 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      color: white;
-     font-family: "Playwrite GB S", cursive;
-     font-optical-sizing: auto;
-     font-weight: 400;
-     font-style: normal;
     }
 
     h1{
       font-size:50px;
+      font-family: "Playwrite GB S", cursive;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+     color: white;
     }
       
       </style>
 
       <div class="container">
-       <div class="playwrite-gb-s-blur"><h1>Hi, I'm Samia.</h1></div>
+       <div class="blur"><h1>Hi, I'm Samia.</h1></div>
       </div>
     </div>
   </foreignObject>
