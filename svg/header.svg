@@ -52,7 +52,7 @@
       justify-content: center;
       align-items: center;
       color: white;
-      font-family: "Playwrite GB S", cursive;;
+      font-family: "Playwrite GB S", cursive;
     }
 
     h1{
