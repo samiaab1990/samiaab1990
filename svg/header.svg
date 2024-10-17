@@ -9,6 +9,8 @@
       width: 100%;
       height: 300px;
       animation: gradient 5s ease infinite;
+      -webkit-animation: gradient 5s ease infinite;
+      -moz-animation: gradient 5s ease infinite;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -16,6 +18,18 @@
 
          
     @keyframes gradient {
+      0%{background-position:0% 50%;}
+      50%{background-position:100% 50%;}
+      100%{background-position:0% 50%;}
+    }
+   
+    @-webkit-keyframes gradient {
+      0%{background-position:0% 50%;}
+      50%{background-position:100% 50%;}
+      100%{background-position:0% 50%;}
+    }
+    
+   @-moz-keyframes gradient {
       0%{background-position:0% 50%;}
       50%{background-position:100% 50%;}
       100%{background-position:0% 50%;}
