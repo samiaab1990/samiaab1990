@@ -50,12 +50,13 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     }
       
       </style>
 
       <div class="container">
-       <div class="blur"></div>
+       <div class="blur"><h1>Hi, I'm Samia</h1></div>
       </div>
     </div>
   </foreignObject>
