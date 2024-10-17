@@ -1,5 +1,7 @@
 
-<h1 style='font-size:👋 Hi there, I'm Samia
+<div style="width: 100%;">
+  <img src="svg/header.svg" style="width: 100%;">
+</div>
 
 <!--
 **samiaab1990/samiaab1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
