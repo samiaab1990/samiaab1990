@@ -3,7 +3,6 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
 
-    @import url('https://fonts.googleapis.com/css2?family=DM+Sans');
     .container {
       border-radius:16px;
       background: linear-gradient(43deg, #4158D0, #C850C0, #FFCC70);
@@ -55,8 +54,8 @@
 
  h1{
     font-size:50px;
-    font-family: 'DM Sans';
-    font-weight: bold;
+    font-family: 'Roboto';
+    font-weight: 700;
     color:white;
     }
       
