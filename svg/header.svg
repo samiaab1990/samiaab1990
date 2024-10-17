@@ -45,7 +45,7 @@
       -webkit-backdrop-filter: blur(11.2px);
       border: 1px solid rgba(255, 255, 255, 0.78);
       
-      width: 95%;
+      width: 98%;
       height: 95%;
       display: flex;
       justify-content: center;
