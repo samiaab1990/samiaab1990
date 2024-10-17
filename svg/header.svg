@@ -53,6 +53,10 @@
       color: white;
       font-family: "Roboto";
     }
+
+    h1{
+        font-size:30px;
+    }
       
       </style>
 
