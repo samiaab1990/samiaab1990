@@ -48,6 +48,7 @@
       width: 98%;
       height: 96%;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
     }
@@ -68,7 +69,7 @@
 
       <div class="container">
        <div class="blur">
-         <h1>Hi, I'm Samia.</h1><br><div class="subtitle">I am </div>
+         <h1>Hi, I'm Samia.</h1><div class="subtitle">I am </div>
       </div>
     </div>
   </div>
