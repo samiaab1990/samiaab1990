@@ -24,13 +24,16 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 # 🌟 Projects
 
-## Data Visualizations
+## 📊 Data Visualizations
 
-## Packages 
+### [Personal Data Visualization Projects](https://github.com/samiaab1990/data-visualizations)
+Personal data visualization projects 
 
-## Programs
+## 📦 Libraries 
 
-## Apps 
+## 💻 Apps 
+
+## 💡 Other 
 
 
 # Stack 
