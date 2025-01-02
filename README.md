@@ -26,10 +26,12 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 ## 📊 Data Visualizations
 
-### [Personal Data Visualization Projects](https://github.com/samiaab1990/data-visualizations)
+### [Data Visualization](https://github.com/samiaab1990/data-visualizations)
+- A repository of various personal data visualization projects 
 
 ### [30 Day Map Challenge 2022](https://github.com/samiaab1990/30-day-map-challenge) 
-- 🏆 Longlisted in the Data Visualization Society's Information is Beautiful Awards 2023 
+- Spatial data visualization projects completed as a part of 30 Day Map Challenge 2022 
+- 🏆 Three visualizations longlisted in the Data Visualization Society's Information is Beautiful Awards 2023 
 
 ## 📦 Libraries 
 
