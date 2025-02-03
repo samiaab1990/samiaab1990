@@ -35,9 +35,33 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 ## 📦 Libraries 
 
+### [Gradient Text](https://github.com/samiaab1990/gradienttext)
+- An R package that provides gradient color capability on ggplot2 titles and text labels.
+  
+### [Custom Schedule R](https://github.com/samiaab1990/customscheduleR)
+- An R package that allows creating customizable run dates for cron or task scheduler jobs
+
+### [Get NYC Holidays R Package](https://github.com/samiaab1990/getNYCholidays)
+- An R package that converts PDF holiday dates from the NYC Office of Payroll into an R vector (list data structure) or R data frame.
+
+### [Get NYC Holidays Python Package](https://github.com/samiaab1990/getNYCholidayspy)
+- A Python library that converts PDF holiday dates from the NYC Office of Payroll into a Python array. 
+
 ## 💻 Apps 
 
+### [Data Dictionary Flask App](https://github.com/samiaab1990/data_dictionary)
+- A full-stack Python Flask application that allows user to upload a dataset and fill a form to develop data dictionary definitions with pre-filled data type field with the purpose of providing a no-code app to document small to medium CSV, Text or Excel datasets.
+
+### [Baseline Characteristics](https://github.com/samiaab1990/baseline-characteristics)
+- A Shiny R app that enables users to develop a baseline characteristics table with a small to medium CSV or Excel dataset input. 
+
 ## 💡 Other 
+
+### [AHRQ Quality Indicators CSV datasets](https://github.com/samiaab1990/AHRQ-Quality-Indicators-CSV)
+- An R script to convert AHRQ PQI PDFs into CSV datasets 
+
+### [Python JSON Parser](https://github.com/samiaab1990/json-parser)
+- A command-line Python program to parse JSONs into a Python dictionary object
 
 
 # Stack 
