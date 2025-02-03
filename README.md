@@ -63,6 +63,18 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 ### [Python JSON Parser](https://github.com/samiaab1990/json-parser)
 - A command-line Python program to parse JSONs into a Python dictionary object
 
+### [Highlight.js Gradient Themes](https://github.com/samiaab1990/highlight.js-gradient-themes)
+- Gradient color syntax highlighter theme
 
 # Stack 
 
+## Data Science/Engineering 
+- R
+- Python
+- PostgreSQL/Amazon Redshift
+- AWS
+
+## Software Development
+- Python/Flask
+- JavaScript (Vanilla, Node-Express, React)
+- HTML, CSS 
