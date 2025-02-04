@@ -76,5 +76,5 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 
 ## Software Development
 - Python/Flask
-- JavaScript (Vanilla, Node-Express, React)
+- JavaScript (Vanilla, Node, Express, React)
 - HTML, CSS 
