@@ -69,12 +69,7 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 # Stack 
 
 ## Data Science/Engineering 
-- R
-- Python
-- PostgreSQL/Amazon Redshift
-- AWS
+[![My Skills](https://skillicons.dev/icons?i=r,python,postgresql,aws)](https://skillicons.dev)
 
 ## Software Development
-- Python/Flask
-- JavaScript (Vanilla, Node, Express, React)
-- HTML, CSS 
+[![My Skills](https://skillicons.dev/icons?i=python,flask,javascript,nodejs,expressjs,react,html,css)](https://skillicons.dev)
