@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 I am a senior data scientist/data engineer with a pharmacy background (PharmD) and 5+ years of experience in the healthcare data science field. My interests include in software development, data engineering and data visualization for applications in healthcare and public health. 
 
+# Stack 
+
+## Data Science/Engineering 
+[![My Skills](https://skillicons.dev/icons?i=r,python,postgresql,aws)](https://skillicons.dev)
+
+## Software Development
+[![My Skills](https://skillicons.dev/icons?i=python,flask,javascript,nodejs,expressjs,react,html,css)](https://skillicons.dev)
+
 # 🌟 Projects
 
 ## 📊 Data Visualizations
@@ -66,10 +74,3 @@ I am a senior data scientist/data engineer with a pharmacy background (PharmD) a
 ### [Highlight.js Gradient Themes](https://github.com/samiaab1990/highlight.js-gradient-themes)
 - Gradient color syntax highlighter theme
 
-# Stack 
-
-## Data Science/Engineering 
-[![My Skills](https://skillicons.dev/icons?i=r,python,postgresql,aws)](https://skillicons.dev)
-
-## Software Development
-[![My Skills](https://skillicons.dev/icons?i=python,flask,javascript,nodejs,expressjs,react,html,css)](https://skillicons.dev)
